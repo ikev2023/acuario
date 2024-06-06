@@ -16,6 +16,11 @@ body {
 
   position: relative;
 }
+label
+{
+  color: white;
+  font-size: 2vh;
+}
 
 .ag-shark {
   width: 463px;
